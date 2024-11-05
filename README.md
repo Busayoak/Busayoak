@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Busayoak
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning more on Data Analysis Business Analysis
+- 👋 Hi, I’m @Busayo Akintan
+- 👀 I’m an Advertising Pratitioner
+- 🌱 I’m currently learning more on Data Analysis & Business Analysis
 - I’m looking to collaborate on Businesses
 - 📫 How to reach me ... busayo.kolade@yahoo.com
 - 😄 Pronouns: ...She
